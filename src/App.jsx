@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
+import Header from './Layout/Header'
 import About from './Pages/About'
 import Education from './Pages/Education'
 import Skills from './Pages/Skills'
